@@ -1,5 +1,4 @@
 def second_challenge
-  require pry
   groceries = {
    dairy: ["milk", "yogurt", "cheese"],
    vegetable: ["carrots", "broccoli", "cucumbers"],
